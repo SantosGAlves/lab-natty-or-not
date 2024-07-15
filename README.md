@@ -1,51 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criar Poemas ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consite em IA´S criarem poemas que pareçam ser feitos por humanos, contendo emoção e sentimentos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Chat GPT
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei à inteligência artificial que ela cria-se um poema de amor, tendo alguns pilares, como, emoção, sentimento e drama.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**Ecos de Amor e Drama**
+
+No silêncio da noite, o coração em brasa,
+Bate forte, em segredo, numa melodia rasa.
+O amor, um enigma, envolto em mistério,
+No palco da vida, um eterno império.
+
+Sob a lua pálida, lágrimas cintilam,
+Caminhos se cruzam, destinos vacilam.
+Olhares que falam, sem voz, sem palavra,
+Em cada suspiro, uma história se lavra.
+
+Amor proibido, um laço que ata,
+No peito a esperança, mas o medo arrebata.
+Promessas ao vento, juras de outrora,
+Em cada despedida, a alma chora.
+
+Sentimento profundo, mar revolto e sereno,
+Entre beijos furtivos e adeus tão pequenos.
+Caminhamos na névoa, entre sombras e luz,
+Buscando no outro a paz que seduz.
+
+Mas o drama persiste, em cada esquina,
+O amor desafia, a vida se inclina.
+Em versos e prosas, na pele marcada,
+A paixão é um jogo, a dor revelada.
+
+E assim seguimos, amantes e poetas,
+Na dança do destino, entre dor e metas.
+O amor, um mistério, eterno dilema,
+Nos braços do drama, encontramos o poema.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Achei algo muito poderoso, que se usada da forma certa pode nos auxiliar em muitas tarefas.
